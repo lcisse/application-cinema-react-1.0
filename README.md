@@ -1,5 +1,5 @@
-1. Cloner le dépôt
-git clone https://github.com/ton-utilisateur/ton-depot.git
+# Cloner le dépôt
+git clone https://github.com/ton-utilisateur/ton-depot.git](https://github.com/lcisse/application-cinema-react-1.0.git
 cd ton-depot
 # Installer les dépendances
 npm install
